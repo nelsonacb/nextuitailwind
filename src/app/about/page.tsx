@@ -1,10 +1,10 @@
 import React from "react";
 import { Header, Text, Image } from "@/components/ui";
 
-function Home() {
+function About() {
   return (
     <div>
-      <Header>Home</Header>
+      <Header>About</Header>
       <Text>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
         tenetur accusantium ipsa nostrum quia enim repudiandae itaque sequi, non
@@ -15,4 +15,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default About;
